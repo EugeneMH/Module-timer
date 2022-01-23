@@ -10,4 +10,4 @@ If the total amount of miliseconds gets lower than 0, the timeInterval stops wor
 Function getZero ensures that if the overall number is below 10, the first digit will be zero - just for the user-friendly interface
 
 
-Using this code, we need to import the module to the main js file and set the selector tied to the HTML document with related id's and the deadline (e.g. '2022-05-11')
+Using this code, we need to import the module to the main js file and set the selector tied to the HTML document with related id's and set the deadline (e.g. '2022-05-11')
